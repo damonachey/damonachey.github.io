@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/damonachey
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://achey.net
+  * I am damonachey (https://keybase.io/damonachey) on keybase.
+  * I have a public key with fingerprint F335 66DA 8F17 983D 5C4C  2645 2117 2D75 FE1E EE9A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "f33566da8f17983d5c4c264521172d75fe1eee9a",
+            "host": "keybase.io",
+            "key_id": "21172d75fe1eee9a",
+            "kid": "010157d0c5f828a351f72a2da0f41768f3d9c93ea3e5cda8fc19b3680b7fdea638920a",
+            "uid": "f6ba76621f86f4a78e0bf295ab1ecd19",
+            "username": "damonachey"
+        },
+        "revoke": {
+            "sig_ids": [
+                "53f6463335238a04f0b0954ffafd2e41412ed90a1a28df2bc21e50073e5b70360f"
+            ]
+        },
+        "service": {
+            "hostname": "achey.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1429059976,
+    "expire_in": 157680000,
+    "prev": "ac7a8723043ad32bad7c12d4849a31a444b056b1c7d0e040e0b2545f6bd2535b",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMN2AnicbVJ9UFRVHGWBVHCIDyUUZQdfUECw874/NjHSQYhFZSCJAY2577372MfC
+7ra7rEu4gkAIYw2VzJgfRdqgUs4QahgaMEtQOejUkKNtRjnDMEoaRYhOI2L37dh/
+3Zk7d+7vnt855557RyJCgsJ16+Iyahb1M4d1Y74jNUHbM/pb6zDRJtdixjrMAgOL
+oloroMPuUK0uzIgpFMWwrAx4heAEnpIZiZZIlmZIguBImWMUSEAIBYClY2abU+tA
+NCJwQoNqQzW0KVdlVP0fvCVwgBM4wXAyLjEKT/KAYgiFIwEpA1yhCY7lFUoWJIGC
+gIKMpPmQCEGkWB4XOUWGgKV4gcQ1upoAncKKgGNZklB4VqEBx0NcVEiBASIBJZkQ
+NKATOqygGiK0DKptViCZ0c296ZgDum0WqGXgVCuQbSdmLMMYSmFplkIxkBQPcFrB
+RVxgaEUBikxCmqAJEsoCDghA8rJCihJJQAbHOWRX5HCKxRVsJ+JGmm5VCpBrOT3R
+D0gbrNCFbNkdNpdNslWhstnlshs1R65auwbbBcXyJwTlomqV0QuhBjd0OFWbFTMS
+CCm5VI2RoEkBZwSBY9Mx6LGrDliuaggGJYmjoclAd0CZAzxHUjhNAZkiRSBzEkHK
+NE8LgCIATdMizrAiIaGngTiNpkgyNIPilUmGYkRMu9IbVhtm5JBNUIEoUWhW4Kpx
+QMw77NsRGqQLD1ryVLD2x4LCw6L++3me8cjHlY9nU7rPBy9JXyV8krZy3ni8rTO7
+sX7zSMOnm65suZ16pidl96He9cfsaZW+3JZd/b/f+clLZPVVTM1lG6T9bVFLrh00
+56uLg/4TKfuLVJ33tn+7Yc/p5Im8wRsthhK27s32S51991daTO3RXzqyjLronCsF
+jUMt494qsFibRLxt/Lbw6LqfuxIm0v7IfXHzaGUOl+yDq0zxF7oT9cNJawxtPZcs
+ec+fvROy4uXRf2onO290GToG0/cuC0sajl2qv/fbSxcHP2g785CxNB2o3/3X53Fr
+/xyL/vAz/8xsQdFUl4XXiR7usqA36yP3DYohs5fP5wzUJxq8d1fTUcn0a5R/z5qF
+qlxrc1Ft9+u9Q9Jc/Nq8wmvvPuOYmea3JbN4X1nC6VdOzlVlmL5b4TwSWTB/KPOt
+o/kDqZkHC0qLp2MnHzQNz/s8e68uht2n/Nmhwa2mBX8pvoE8mXe16bnQAxHNMfLA
+g8yaZNupuG/aSyZLYz427nMvtI5Mb+0pnv6+7MLWBhesL6SXvXP8VswjYaJYFxvB
+7zjR+NGiR+g17bx1TJda3WHfOFNwMV5cv/zpjRtGU0vYr6iSe1Nf90ekFI+full7
+vWXYdXj5pI9P3TQqNSfY8pcmvpo28cvdoReuOzrgj9uyPLm/bhl9/5Fu9c0fzpke
+Sn+bn3U3nAUR53JLxt6bnv1iXP8vbQC25Q==
+=/+9C
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/damonachey
+
+==================================================================
