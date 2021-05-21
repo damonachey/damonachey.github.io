@@ -21,7 +21,7 @@ h6 {
 }
 .main-content {
   padding: 40px 0;
-  background-image: url('https://www.solodev.com/assets/bg-02.jpg');
+  background-image: url('');
   background-color: transparent;
   background-size: cover;
   background-repeat: no-repeat;
@@ -31,7 +31,7 @@ h6 {
 }
 .main-content h2,
 .main-content h3 {
-  color: #fff;
+  color: #000;
   font-size: 5.5rem;
   text-align: center;
 }
@@ -51,10 +51,10 @@ h6 {
 }
 .ct-featureBox {
   width: 100%;
-  background: #fff;
+  background: #b0c4de;
   padding: 40px 55px;
   margin: 15px 0;
-  min-height: 250px;
+  min-height: 450px;
   display: table;
   text-align: center;
   color: inherit;
