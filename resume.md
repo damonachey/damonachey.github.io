@@ -4,29 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
-<style>
-.topnav {
-  font-family: 'Bebas Neue';
-  font-size: 36pt;
-  overflow: hidden;
-}
-
-.topnav a {
-  float: left;
-}
-
-.topnav-right {
-  float: right;
-}
-</style>
-
-<div class="topnav">
-    <a href="https://Achey.Net/resume">Resume</a>
-    <div class="topnav-right">
-        <a href="https://Achey.Net">Demos ></a>
-    </div>
-</div>
-
 # <center>Damon Achey, .NET Developer</center>
 
 ###### <center><a href="mailto:Damon@Achey.Net?subject=So I saw your resume..." target="_blank">Damon@Achey.Net</a> | Colorado Springs, CO | <a href="tel:4257612313" target="_blank">425-761-2313</a></center>

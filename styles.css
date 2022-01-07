@@ -2,20 +2,6 @@
    https://www.solodev.com/blog/web-design/adding-feature-tiles-to-your-website-with-font-awesome.stml 
 */
 
-.topnav {
-  font-family: 'Bebas Neue';
-  font-size: 36pt;
-  overflow: hidden;
-}
-
-.topnav a {
-  float: left;
-}
-
-.topnav-right {
-  float: right;
-}
-
 .ct-featureBox h4 {
   padding: 10px 0 5px;
   color: #252525;
