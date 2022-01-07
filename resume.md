@@ -16,7 +16,7 @@ permalink: /resume/
 ## Experience
 
 **<a href="http://www.progressive.com/" target="_blank">Progressive Insurance</a>**  
-External Data 2014-Present  
+Enterprise Resource Organization 2014-Present  
 *IT Applications Programmer Senior ERO*  
 
 - Member of Enterprise Resource Organization responsible for cross enterprise development projects
@@ -27,7 +27,7 @@ External Data 2014-Present
 - Continuation of previous contract role.
 
 **<a href="http://www.progressive.com/" target="_blank">Progressive Insurance (Precision Management)</a>**  
-External Data 2013-2014  
+Enterprise Resource Organization 2013-2014  
 *IT Applications Programmer Senior/Vendor*  
 
 - Developed WCF/SOAP services for requesting, caching, and processing driver motor vehicle records.
