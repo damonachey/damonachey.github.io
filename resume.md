@@ -6,7 +6,7 @@ permalink: /resume/
 
 # <center>Damon Achey, .NET Developer</center>
 
-###### <center>Colorado Springs, CO | Damon@Achey.Net | 425-761-2313</center>
+###### <center>Colorado Springs, CO | <Damon@Achey.Net> | 425-761-2313</center>
 
 ## Skills
 
