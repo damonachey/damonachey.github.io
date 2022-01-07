@@ -21,9 +21,9 @@ permalink: /resume/
 </style>
 
 <div class="topnav">
-    <a href="https://Achey.Net">Demos</a>
+    <a href="https://Achey.Net/resume">Resume</a>
     <div class="topnav-right">
-    <a href="https://Achey.Net/resume">Resume ></a>
+        <a href="https://Achey.Net">Demos ></a>
     </div>
 </div>
 
