@@ -18,7 +18,7 @@ permalink: /resume/
 
 **<a href="http://www.progressive.com/" target="_blank">Progressive Insurance</a>**  
 Enterprise Resource Organization 2014-Present  
-* IT Applications Programmer Senior*  
+*IT Applications Programmer Senior*  
 
 - Member of Enterprise Resource Organization responsible for cross enterprise development projects
 - Integration of large scale master data management package into existing systems
