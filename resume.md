@@ -5,10 +5,10 @@ permalink: /resume/
 ---
 
 <style>
-.upper-right {
+.upper-right h4 {
   float: right;
   margin-top: 30px !important;
-  font-size: 2.2rem;
+  font-size: 2.2rem !important;
   font-weight: 600;
 }
 </style>
