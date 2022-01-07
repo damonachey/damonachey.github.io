@@ -2,14 +2,20 @@
    https://www.solodev.com/blog/web-design/adding-feature-tiles-to-your-website-with-font-awesome.stml 
 */
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+.topnav {
   font-family: 'proxima-nova', sans-serif;
+  font-size: 17px;
+  overflow: hidden;
 }
+
+.topnav a {
+  float: left;
+}
+
+.topnav-right {
+  float: right;
+}
+
 .ct-featureBox h4 {
   padding: 10px 0 5px;
   color: #252525;
@@ -33,7 +39,7 @@ h6 {
 .main-content h3 {
   color: #000;
   font-size: 5.5rem;
-  text-align: center;
+  text-align: left;
 }
 .main-content h2 {
   font-family: 'Bebas Neue';
