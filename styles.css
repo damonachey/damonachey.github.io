@@ -2,6 +2,11 @@
    https://www.solodev.com/blog/web-design/adding-feature-tiles-to-your-website-with-font-awesome.stml 
 */
 
+.upper-right {
+  float: right;
+  margin-top: 30px;
+}
+
 .ct-featureBox h4 {
   padding: 10px 0 5px;
   color: #252525;
