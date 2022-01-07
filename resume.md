@@ -6,7 +6,7 @@ permalink: /resume/
 
 # <center>Damon Achey, .NET Developer</center>
 
-###### <center>Colorado Springs, CO | <Damon@Achey.Net> | 425-761-2313</center>
+###### <center>Colorado Springs, CO | <a href="mailto:Damon@Achey.Net?subject=So I saw your resume...">Damon@Achey.Net</a> | <a href="tel:4257612313">425-761-2313</a></center>
 
 ## Skills
 
