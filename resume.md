@@ -8,32 +8,31 @@ permalink: /resume/
 
 ###### <center><a href="mailto:Damon@Achey.Net?subject=So I saw your resume..." target="_blank">Damon@Achey.Net</a> | Colorado Springs, CO | <a href="tel:4257612313" target="_blank">425-761-2313</a></center>
 
-## Skills
+## Summary
+Experienced C# developer having worked at multiple large and small companies.  Looking for new and interesting technical challenges.
 
-- Specializing in C# development, 14+ years experience. Desire to move into Web (ASP.NET/HTML5/Javascript) development.
-- **Used recently:** C#, .NET, Visual Studio, LINQ, TPL, WCF, Windows Workflow, SOAP, MSTest, HTML/HTML5, JavaScript, Linux, SQL Server, Entity Frameworks, IIS Hosted Services, Batch, Git, xNUnit, LinqPad, Nuget, Agile, Scrum
-- **Used previously:** MySql, Cassandra, C/C++, Perl, x86 asm, MipsII asm, Python, PHP
+## Technical Skills
+
+C#, .Net Framework, .NET Core, Visual Studio, VSCode, LINQ, TPL, REST, WCF, HTML/HTML5, CSS, JavaScript, AngularJS, TypeScript, SQL, Entity Frameworks, Git, Linux, xUnit, LINQPad, Agile, Scrum
 
 ## Experience
 
 **<a href="http://www.progressive.com/" target="_blank">Progressive Insurance</a>**  
 Enterprise Resource Organization 2014-Present  
-*IT Applications Programmer Senior*  
+*IT Applications Programmer Senior*
 
-- Member of Enterprise Resource Organization responsible for cross enterprise development projects
-- Integration of large scale master data management package into existing systems
-- Developed WCF/SOAP based services for requesting, caching, and processing driver motor vehicle records.
-- Maintained and updated large legacy code base for multiple applications.
-- Participated in all phases of SDM life cycle
-- Continuation of previous contract role.
+- Implemented custom internal component versioning and CI/CD system for corporate wide integration into multiple enterprise wide platforms.
+- Worked on large scale enterprise project team (~200 people) to overhaul the entire customer portal experience with my agile team focussing primarily on the payment and billing management site components in AngularJS, TypeScript, C#, and .NET.
+- Integration of large scale master data management (MDM) / customer relationship management (CRM) package into existing legacy infrastructure.
+- Participated in hiring interview process for new hires, leading technical interviews and whiteboard coding exercises.
 
 **<a href="http://www.progressive.com/" target="_blank">Progressive Insurance (Precision Management)</a>**  
 Enterprise Resource Organization 2013-2014  
 *IT Applications Programmer Senior/Vendor*  
 
-- Developed WCF/SOAP services for requesting, caching, and processing driver motor vehicle records.
-- Maintained and updated large legacy code base for multiple applications.
-- Participated in all phases of SDM life cycle
+- Developed WCF/SOAP services for requesting, caching, and processing driver motor vehicle records resulting in significant savings on one of the single largest new customer acquisition costs.
+- Maintained and updated large legacy code base for multiple applications dealing with management of data external to the company.
+- Participated in all phases of software development life cycle.
 
 **<a href="http://sig.com/" target="_blank">Susquehanna International Group</a>**  
 Books and Records 2012-2013  
@@ -81,12 +80,16 @@ Desktop Operating Systems, Windows ME 1999-2000
 - Implemented 1394 debugging support for legacy free versions of Windows ME.
 - Developed tests for PCI, CardBus, and PCMCIA.
 
+<!-- aged off
+
 **<a href="http://www.travimp.com/" target="_blank">Travel Impressions</a>**  
 Wholesale tour operator 1997-1999  
 *Programmer Analyst*  
 
 - Design and implementation of multi-process, multi-threading server application for airline reservation processing and itinerary management.
 - Transitioned legacy reservation software to Unix based C/C++ environment.
+
+-->
 
 ## Education
 
