@@ -3,9 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-{::options auto_ids="false" /}
-
-<h2 style="font-family: 'Bebas Neue'; font-size: 55px; font-weight:500; text-transform: uppercase; margin-bottom: 0"><a href="https://Achey.Net">Demos</a> <span style="float: right">Resume</span></h2>
+<h2 style="font-family: 'Bebas Neue'; font-size: 55px; font-weight: 500; text-transform: uppercase; margin-bottom: 0"><a href="https://Achey.Net">Demos</a> <span style="float: right">Resume</span></h2>
 
 # <center>Damon Achey, .NET Developer</center>
 
