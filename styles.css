@@ -37,6 +37,9 @@
   padding-bottom: 40px;
   margin-top: 0;
 }
+.main-content .container h3 {
+  padding: 0;
+}
 .main-content h3,
 .fa {
   font-size: 3rem;
