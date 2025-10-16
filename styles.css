@@ -2,6 +2,30 @@
    https://www.solodev.com/blog/web-design/adding-feature-tiles-to-your-website-with-font-awesome.stml 
 */
 
+/* Flexbox container for feature boxes */
+.feature-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.feature-box {
+  flex: 0 0 calc(33.333% - 14px); /* 3 wide on large - fixed size */
+  display: flex;
+}
+
+@media (max-width: 991px) {
+  .feature-box {
+    flex: 0 0 calc(50% - 10px); /* 2 wide on medium - fixed size */
+  }
+}
+
+@media (max-width: 767px) {
+  .feature-box {
+    flex: 0 0 100%; /* 1 wide on small */
+  }
+}
+
 .ct-featureBox h4 {
   padding: 10px 0 5px;
   color: #252525;
