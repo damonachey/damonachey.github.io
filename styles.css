@@ -122,3 +122,12 @@ figure {
     padding-left: 15px;
   }
 }
+@media print {
+  .no-print {
+    display: none;
+  }
+  a[href^="mailto:"]:after,
+  a[href^="tel:"]:after {
+    content: "" !important;
+  }
+}
